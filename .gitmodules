@@ -12,3 +12,8 @@
 	path = xmarts_dgii_reports
 	url = git@github.com:xmarts/xmarts_dgii_reports.git
 	branch = 13.0-dev-vic
+
+[submodule "withholding-multi-payments"]
+	path = withholding-multi-payments
+	url = git@github.com:xmarts/withholding-multi-payments.git
+	branch = 13.0-victoralonsoxmar-settings
