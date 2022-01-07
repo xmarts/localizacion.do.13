@@ -7,3 +7,8 @@
 	path = indexa-git/external-service-addons
 	url = git@github.com:indexa-git/external-service-addons.git
 	branch = 13.0
+
+[submodule "xmarts_dgii_reports"]
+	path = xmarts_dgii_reports
+	url = git@github.com:xmarts/xmarts_dgii_reports.git
+	branch = 13.0-dev-vic
