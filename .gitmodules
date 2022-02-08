@@ -22,3 +22,8 @@
 	path = juancorreaxsmarts/Reportes_dominicana
 	url = git@github.com:juancorreaxsmarts/Reportes_dominicana.git
 	branch = main
+
+[submodule "all_in_one_dgii_report"]
+	path = all_in_one_dgii_report
+	url = git@github.com:xmarts/all_in_one_dgii_report.git
+	branch = 13.0
