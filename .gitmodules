@@ -17,6 +17,3 @@
 	path = withholding-multi-payments
 	url = git@github.com:xmarts/withholding-multi-payments.git
 	branch = 13.0-victoralonsoxmar-settings
-[submodule "Reportes_dominicana"]
-	path = Reportes_dominicana
-	url = git@github.com:juancorreaxsmarts/Reportes_dominicana.git
