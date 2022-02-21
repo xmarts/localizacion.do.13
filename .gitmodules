@@ -23,3 +23,8 @@
 
 
 
+
+[submodule "juancorreaxsmarts/Reportes_dominicana"]
+	path = juancorreaxsmarts/Reportes_dominicana
+	url = git@github.com:juancorreaxsmarts/Reportes_dominicana.git
+	branch = main
