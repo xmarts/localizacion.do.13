@@ -28,3 +28,8 @@
 	path = juancorreaxsmarts/Reportes_dominicana
 	url = git@github.com:juancorreaxsmarts/Reportes_dominicana.git
 	branch = main
+
+[submodule "AstraTechRD/victorgasparxmarts"]
+	path = AstraTechRD/victorgasparxmarts
+	url = git@github.com:AstraTechRD/victorgasparxmarts.git
+	branch = 13.0
