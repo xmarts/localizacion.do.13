@@ -28,3 +28,7 @@
 	path = juancorreaxsmarts/Reportes_dominicana
 	url = git@github.com:juancorreaxsmarts/Reportes_dominicana.git
 	branch = main
+[submodule "declaraciones_dgii"]
+	path = declaraciones_dgii
+	url = git@github.com:xmarts/declaraciones_dgii.git
+	branch = 13.0
