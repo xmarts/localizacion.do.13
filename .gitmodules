@@ -17,3 +17,8 @@
 	path = withholding-multi-payments
 	url = git@github.com:xmarts/withholding-multi-payments.git
 	branch = 13.0-victoralonsoxmar-settings
+
+[submodule "l10n_do_hr_payroll"]
+	path = l10n_do_hr_payroll
+	url = git@github.com:xmarts/l10n_do_hr_payroll.git
+	branch = 13.0
