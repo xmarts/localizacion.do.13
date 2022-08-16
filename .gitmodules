@@ -42,3 +42,8 @@
 	path = l10n_do_tss_report
 	url = git@github.com:xmarts/l10n_do_tss_report.git
 	branch = 13.0
+
+[submodule "xmarts/declaraciones_dgii"]
+	path = xmarts/declaraciones_dgii
+	url = git@github.com:xmarts/declaraciones_dgii.git
+	branch = v15-jun
