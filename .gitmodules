@@ -31,3 +31,8 @@
 	path = external-service-addons
 	url = git@github.com:indexa-git/external-service-addons.git
 	branch = 13.0
+
+[submodule "report_qweb_pdf_watermark"]
+	path = report_qweb_pdf_watermark
+	url = git@github.com:xmarts/report_qweb_pdf_watermark.git
+	branch = 13.0
